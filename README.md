@@ -1,8 +1,8 @@
-# Olá, eu sou Kevin! 👋 BR
+### Oi, eu sou Kevin! 👋 BR
 
 Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecnologia e atualmente me aprofundando em desenvolvimento front-end e back-end.
 
-## 🚀 Sobre mim
+### 🚀 Sobre mim
 
 - 🎓 Atualmente, estou me aprofundando em desenvolvimento full-stack, explorando tanto front-end quanto back-end.
 - 👨‍💻 Trabalho com tecnologias como [HTML, CSS, JavaScript, Java, etc.].
@@ -13,11 +13,11 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 [![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical)](https://github.com/KevinCapocecera)
 
-## 💡 Projetos de Destaque
+### 💡 Projetos de Destaque
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
@@ -26,12 +26,12 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------
+---
 
-## Hello, I'm Kevin! 👋 EN
+### Hello, I'm Kevin! 👋 us
 
 
-## 🚀 About me
+### 🚀 About me
 
 
 - 🎓 Currently, I'm diving deep into full-stack development, exploring both front-end and back-end.
@@ -43,13 +43,13 @@ Aqui estão alguns dos meus projetos mais interessantes:
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical)](https://github.com/KevinCapocecera)
 
 
-## 💡 Featured Projects
+### 💡 Featured Projects
 
 
 Here are some of my most interesting projects:
