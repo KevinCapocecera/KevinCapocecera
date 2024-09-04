@@ -13,15 +13,6 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
 
-## 🛠️ Tecnologias & Ferramentas
-
-Aqui estão algumas das ferramentas e tecnologias que estou utilizando:
-
-- **Front-End:** HTML, CSS, JavaScript, [React]
-- **Back-End:** Java, Python, Node.js.
-- **Banco de Dados:** MySQL
-- **Ferramentas de Desenvolvimento:** VSCode, Git, GitHub.
-
 ## 📈 GitHub Stats
 
 [![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical)](https://github.com/KevinCapocecera)
@@ -54,19 +45,6 @@ Hello, I'm Kevin! 👋
 - [LinkedIn](https://www.linkedin.com/in/kevin-capocecera/)
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
-
-
-## 🛠️ Technologies & Tools
-
-
-Here are some of the tools and technologies I'm using:
-
-
-- **Front-End:** HTML, CSS, JavaScript, [React]
-- **Back-End:** Java, Python, Node.js.
-- **Database:** MySQL
-- **Development Tools:** VSCode, Git, GitHub.
-
 
 ## 📈 GitHub Stats
 
