@@ -15,10 +15,9 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 
 ### 📈 GitHub Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula&hide_border=true" width="313" />
-</div>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=dracula)](https://github.com/KevinCapocecera)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula)
+
 ### 💡 Projetos de Destaque
 
 Aqui estão alguns dos meus projetos mais interessantes:
@@ -48,7 +47,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 📈 GitHub Stats
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical)](https://github.com/KevinCapocecera)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=dracula)](https://github.com/KevinCapocecera)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula)
 
 ### 💡 Featured Projects
