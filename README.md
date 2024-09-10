@@ -15,9 +15,9 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 
 ### 📈 GitHub Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=dracula)](https://github.com/KevinCapocecera)
-![KevinCapocecera's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=dracula&hide_border=false)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula)
+![KevinCapocecera's Stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![KevinCapocecera's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false)
+![KevinCapocecera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ### 💡 Projetos de Destaque
 
@@ -48,9 +48,9 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 📈 GitHub Stats
 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=dracula)](https://github.com/KevinCapocecera)
-![KevinCapocecera's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=dracula&hide_border=false)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula)
+![KevinCapocecera's Stats](https://github-readme-stats.vercel.app/api?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+![KevinCapocecera's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false)
+![KevinCapocecera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ### 💡 Featured Projects
 
