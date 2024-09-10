@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 ### 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dracula" width="440"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=radical" width="440"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&theme=dracula&hide_border=true" width="313" />
 </div>
 ### 💡 Projetos de Destaque
