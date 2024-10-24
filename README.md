@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 ### 📈 GitHub Stats
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="500">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false" width="500">
 <div>
 <a href="https://github.com/KevinCapocecera">
@@ -52,7 +52,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ### 📈 GitHub Stats
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="500">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false" width="500">
 <div>
 <a href="https://github.com/KevinCapocecera">
