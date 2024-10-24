@@ -21,7 +21,6 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 <div>
 <a href="https://github.com/KevinCapocecera">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 💡 Projetos de Destaque
@@ -55,7 +54,10 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 <img src ="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="500">
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false" width="500">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" >
+<div>
+<a href="https://github.com/KevinCapocecera">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ### 💡 Featured Projects
 
