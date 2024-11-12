@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecn
 ### 🚀 Sobre mim
 
 - 🎓 Atualmente, estou me aprofundando em desenvolvimento full-stack, explorando tanto front-end quanto back-end.
-- 👨‍💻 Trabalho com tecnologias como [HTML, CSS, JavaScript].
-- 🌱 Estou aprendendo mais sobre [React, MySQL, Java].
+- 👨‍💻 Trabalho com tecnologias como [HTML, CSS, JavaScript, Java, MySQL].
+- 🌱 Estou aprendendo mais sobre [Python].
 - 💬 Pergunte-me sobre [temas relacionados ao desenvolvimento web, boas práticas de código, etc.].
 - 📫 Você pode me encontrar em: 
 - [LinkedIn](https://www.linkedin.com/in/kevin-capocecera/)
@@ -41,8 +41,8 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 
 - 🎓 Currently, I'm diving deep into full-stack development, exploring both front-end and back-end.
-- 👨‍💻 I work with technologies like [HTML, CSS, JavaScript].
-- 🌱 I'm learning more about [React, MySQL, Java].
+- 👨‍💻 I work with technologies like [HTML, CSS, JavaScript, Java, MySQL].
+- 🌱 I'm learning more about [Python].
 - 💬 Ask me about [web-related development topics, coding best practices, etc.].
 - 📫 You can find me at:
 - [LinkedIn](https://www.linkedin.com/in/kevin-capocecera/)
