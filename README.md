@@ -1,6 +1,6 @@
 ### Oi, eu sou Kevin! 👋 BR
 
-Bem-vindo ao meu perfil GitHub! Sou um Desenvolvedor Júnior apaixonado por tecnologia e atualmente me aprofundando em desenvolvimento front-end e back-end.
+Bem-vindo ao meu perfil GitHub! Sou um Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e atualmente me aprofundando em desenvolvimento front-end e back-end.
 
 ### 🚀 Sobre mim
 
@@ -34,7 +34,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 ---
 
-### Hello, I'm Kevin! 👋 us
+### Hello, I'm Kevin! 👋 US
 
 
 ### 🚀 About me
