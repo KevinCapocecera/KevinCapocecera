@@ -13,31 +13,6 @@ Bem-vindo ao meu perfil GitHub! Sou um Estudante de Análise e Desenvolvimento d
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-  />
-
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  />
-
-</div>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-
-</div>
-
 ### 💡 Projetos de Destaque
 
 Aqui estão alguns dos meus projetos mais interessantes:
@@ -64,15 +39,6 @@ Aqui estão alguns dos meus projetos mais interessantes:
 - [Instagram](https://www.instagram.com/kevin_cello/)
 - [Email](kevin_pereira1999@hotmail.com)
 
-### 📈 GitHub Stats
-
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=false" width="500">
-<div>
-<a href="https://github.com/KevinCapocecera">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ### 💡 Featured Projects
 
