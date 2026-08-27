@@ -1,51 +1,150 @@
-### Oi, eu sou Kevin! 👋 BR
+# 👋 Olá, eu sou Kevin Capocecera!
 
-Bem-vindo ao meu perfil GitHub! Sou um Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e atualmente me aprofundando em desenvolvimento front-end e back-end.
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
-### 🚀 Sobre mim
-
-- 🎓 Atualmente, estou me aprofundando em desenvolvimento full-stack, explorando tanto front-end quanto back-end.
-- 👨‍💻 Trabalho com tecnologias como [HTML, CSS, JavaScript, Java, MySQL].
-- 🌱 Estou aprendendo mais sobre [Python].
-- 💬 Pergunte-me sobre [temas relacionados ao desenvolvimento web, boas práticas de código, etc.].
-- 📫 Você pode me encontrar em: 
-- [LinkedIn](https://www.linkedin.com/in/kevin-capocecera/)
-- [Instagram](https://www.instagram.com/kevin_cello/)
-- [Email](kevin_pereira1999@hotmail.com)
-
-### 💡 Projetos de Destaque
-
-Aqui estão alguns dos meus projetos mais interessantes:
-
-- **[Projeto integrador (SENAC)](https://github.com/KevinCapocecera/projeto-integrador):** Uma loja online de roupas e acessórios da Mclaren (em andamento)
-- **[Pagina de portifolio](https://github.com/KevinCapocecera/pagina-de-portifolio):** Pagina de portifolio que direciona para as minhas redes sociais.
-
-
+<p align="left">
+  <a href="https://github.com/KevinCapocecera">
+    <img src="https://komarev.com/ghpvc/?username=KevinCapocecera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
 ---
 
-### Hello, I'm Kevin! 👋 US
+## 🚀 Sobre mim
 
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de soluções.
 
-### 🚀 About me
+Atualmente estou aprofundando meus conhecimentos em **desenvolvimento Back-End, APIs REST, Python, bancos de dados e desenvolvimento Web**, além de continuar evoluindo meus conhecimentos em Front-End.
 
+Tenho como objetivo transformar conhecimentos técnicos em soluções práticas e eficientes, buscando constantemente novos desafios e oportunidades para evoluir profissionalmente na área de tecnologia.
 
-- 🎓 Currently, I'm diving deep into full-stack development, exploring both front-end and back-end.
-- 👨‍💻 I work with technologies like [HTML, CSS, JavaScript, Java, MySQL].
-- 🌱 I'm learning more about [Python].
-- 💬 Ask me about [web-related development topics, coding best practices, etc.].
-- 📫 You can find me at:
-- [LinkedIn](https://www.linkedin.com/in/kevin-capocecera/)
-- [Instagram](https://www.instagram.com/kevin_cello/)
-- [Email](kevin_pereira1999@hotmail.com)
-
-
-### 💡 Featured Projects
-
-
-Here are some of my most interesting projects:
-
-
-- **[Integrated Project (SENAC)](https://github.com/KevinCapocecera/projeto-integrador):** An online clothing and accessories store for McLaren (in progress)
-- **[Portfolio Page](https://github.com/KevinCapocecera/pagina-de-portifolio):** A portfolio page that redirects to my social media.
 ---
+
+## 🧠 Atualmente estudando
+
+- 🐍 Python
+- 🌐 Desenvolvimento de APIs REST
+- ⚡ Flask
+- 🗄️ SQL e bancos de dados
+- ☕ JavaScript
+- 🎨 HTML5 e CSS3
+- 📊 Análise de dados
+- 🔀 Git e GitHub
+- 🧪 Testes de APIs com Postman
+
+---
+
+## 💻 Tecnologias e ferramentas
+
+### Linguagens
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+</p>
+
+### Back-End e Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="Visual Studio Code"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🚀 API Connect
+
+API REST desenvolvida em **Python + Flask** para gerenciamento de usuários.
+
+**Principais funcionalidades:**
+
+- ✅ Cadastro de usuários
+- ✅ Listagem de usuários
+- ✅ Busca por ID
+- ✅ Atualização de usuários
+- ✅ Exclusão de usuários
+- ✅ Validação de dados
+- ✅ Tratamento de erros
+- ✅ Respostas padronizadas em JSON
+- ✅ Arquitetura modular
+
+🔗 **Repositório:**  
+https://github.com/KevinCapocecera/api-connect-kevin-pereira
+
+---
+
+### 📊 Projetos com Python
+
+Projetos voltados para automação, manipulação e análise de dados utilizando Python.
+
+**Tecnologias utilizadas:**
+
+`Python` `Pandas` `PyAutoGUI` `Excel`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinCapocecera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCapocecera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinCapocecera&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=KevinCapocecera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+## 📈 Minha jornada
+
+```text
+HTML + CSS
+    ↓
+JavaScript
+    ↓
+Python
+    ↓
+SQL
+    ↓
+Análise de Dados
+    ↓
+APIs REST
+    ↓
+Desenvolvimento Back-End
+    ↓
+🚀 Próximos desafios
